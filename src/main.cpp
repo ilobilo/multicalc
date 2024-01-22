@@ -71,9 +71,9 @@ auto main() -> int
 
     // SPEED
     const std::vector<std::string> speed_units {
-        "Meters P/S",
-        "Kilometers P/S",
-        "Kilometers P/H",
+        "Metres P/S",
+        "Kilometres P/S",
+        "Kilometres P/H",
         "Miles P/H",
         "Knots",
         "Lightspeed"
@@ -123,14 +123,14 @@ auto main() -> int
 
     // LENGTH
     const std::vector<std::string> length_units {
-        "Picometer",
-        "Nanometer",
-        "Micrometer",
-        "Millimeter",
-        "Centimeter",
-        "Decimeter",
-        "Meter",
-        "Kilometer",
+        "Picometre",
+        "Nanometre",
+        "Micrometre",
+        "Millimetre",
+        "Centimetre",
+        "Decimetre",
+        "Metre",
+        "Kilometre",
         "Mile",
         "Nautical Mile",
         "Parsec",
