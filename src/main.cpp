@@ -1,5 +1,5 @@
 // Copyright (C) 2023  ilobilo
- 
+
 #include <ftxui/component/screen_interactive.hpp>
 #include <ftxui/dom/elements.hpp>
 #include <template.hpp>
@@ -196,10 +196,10 @@ auto main() -> int
 
     // MASS
     const std::vector<std::string> mass_units {
-        "Microgram",
-        "Milligram",
-        "Gram",
-        "Kilogram",
+        "Microgramme",
+        "Milligramme",
+        "Gramme",
+        "Kilogramme",
         "Tonne",
         "Pound",
         "Ounce"
